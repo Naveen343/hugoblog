@@ -1,5 +1,6 @@
 ---
-title: "Inviting The TO the World Of Glory"
+title: "Inviting To the World Of Glory"
+draft: "false"
 featured_image: '/images/gohugo-default-sample-hero-image.jpg'
 description: "Greatest live updates can be found here and there."
 ---
